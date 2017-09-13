@@ -11,3 +11,15 @@
 
 [[https://es.wikipedia.org/wiki/Wikipedia:Vandalismo_en_Wikipedia_en_espa%25C3%25B1ol_desde_cadenas_de_televisi%25C3%25B3n_espa%25C3%25B1olas][Vandalismo desde las altas esferas]]
 * Pero el conocimiento libre es imparable
+* Los proyectos libres van tomando la cabecera
+* GNU/Linux y otras tecnologías libres en los servidores
+* GNU/Linux en el escritorio (al menos en el mío)
+* Linux en los móviles y otros aparatos
+* Ahora toca reivindicar el Hardware Libre
+* Llega arduino para reclamar su posición
+* La impresión 3D se hace libre
+* Impresión 3D + Hardware Libre + Software Libre + Conocimiento Libre
+* El movimiento DIY junto con internet pueden ser el gran salto del conocimiento humano
+* Los movimientos Makers llenan el planeta
+* También tenemos la primera FPGA Libre
+* Consolidamos a los Makers of Murcia (Teatro Circo)
