@@ -1,25 +1,135 @@
 #+TITLE: Conocimiento Libre y Evolución
 #+AUTHOR: Patricio Martínez Cano
 #+EMAIL: maxxcan@maxxcan.com
+
 * Introducción
+
+Quiero agradecer a la fundación Wikimedia por invitarme a presentar este curso y bla bla
+
 * Y en el principio fue el verbo
+
+En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.
+
+[[./img/la-creacion.png]]
+
 * Los inicios del conocimiento libre
+
+El hombre comparte por naturaleza. Está en su *ADN*.  
+
+[[./img/stallman.jpg]]
+
 * El conocimiento libre y la evolución
+
+La bióloga evolucionista que puso a la simbiosis en el centro de la evolución.
+
+
+[[./img/lyyn-margulis.jpg]]
+
+
+[[https://es.wikipedia.org/wiki/Lynn_Margulis][Enlace en la Wikipedia]]
+
 * El conocimiento libre en la Universidad de Murcia
+
+Proyecto Caldum 
+
+[[./img/caldum.jpg]]
+
 * Cuando conocí la Wikipedia en los días Caldum
+
+[[./img/dias-caldum2.png]]
+
+
 * Cuando la Wikipedia era vandalizada por los grandes medios
 
 [[https://es.wikipedia.org/wiki/Wikipedia:Vandalismo_en_Wikipedia_en_espa%25C3%25B1ol_desde_cadenas_de_televisi%25C3%25B3n_espa%25C3%25B1olas][Vandalismo desde las altas esferas]]
+
+
+
+
 * Pero el conocimiento libre es imparable
+
+
+Y la Wikipedia se va posicionando como un referente a nivel mundial del Conocimiento
+
+[[./img/estudio-enciclopedia-britanica.png]]
+
 * Los proyectos libres van tomando la cabecera
-* GNU/Linux y otras tecnologías libres en los servidores
+
+
+[[./img/github]]
+
+[[https://www.github.com][GitHub]]
+
+* GNU/Linux y otras tecnologías libres en distintos dispositivos
+
+
+En este [[https://en.wikipedia.org/wiki/Usage_share_of_operating_systems][artículo]] se hace un buen resumen del uso de Linux en distintos dispositivos, pero en resumen:
+
+
+1. Se usa en más de un 66% de los servidores Web del mundo
+2. En más de un 98% en superordenadores
+3. En gran cantidad de dispositivos móviles con Android a la cabeza
+4. En televisores, impresoras, routers, consolas e incluso en frigoríficos
+
+
 * GNU/Linux en el escritorio (al menos en el mío)
-* Linux en los móviles y otros aparatos
+
+Ahora que disfrutamos de los mejores escritores de todo el sector ya no me preocupo por ese tema
+
 * Ahora toca reivindicar el Hardware Libre
+
+Algunas de las pegas que seguimos teniendo con la expansión del software libre es culpa al hardware cerrado.
+
++ Problemas con los drivers
++ Seguridad
+
+
 * Llega arduino para reclamar su posición
+
+Mucha gente conoce arduino pero pocas valoran o conocen la importancia de su llegada y de la revolución que produjo.
+
+
+[[./img/arduino.png]]
+
+
+Aquí os dejo el [[https://vimeo.com/18390711][documental]] donde los creadores explican el origen de esta plataforma
+
 * La impresión 3D se hace libre
+
+El padre de la impresión 3D libre es [[https://en.wikipedia.org/wiki/Adrian_Bowyer][Adrian Bowyer]]
+
+
+[[./img/reprap-darwin.jpg]]
+
+
+[[https://es.wikipedia.org/wiki/Proyecto_RepRap][Proyecto Reprap]]
+
+
+* Impresión 3D en España
+
+
+[[./img/clone-wars-logo.png]]
+
+[[./img/obijuan.jpg]]
+
 * Impresión 3D + Hardware Libre + Software Libre + Conocimiento Libre
+
+
+[[./img/patrimonio-tecnologico-humanidad.png]]
+
 * El movimiento DIY junto con internet pueden ser el gran salto del conocimiento humano
+
+Uno de los ejemplos más interesantes puede ser el [[http://opensourceecology.org/][Open Source Ecology]]
+
+[[./img/open-source-ecology.jpg]]
+
+
 * Los movimientos Makers llenan el planeta
+
+
+
 * También tenemos la primera FPGA Libre
-* Consolidamos a los Makers of Murcia (Teatro Circo)
+
+
+
+* Consolidamos a los Makers of Murcia (Feria Maker)
