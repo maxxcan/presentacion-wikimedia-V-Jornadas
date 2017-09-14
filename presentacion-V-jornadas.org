@@ -23,7 +23,7 @@ El hombre comparte por naturaleza. Está en su *ADN*.
 La bióloga evolucionista que puso a la simbiosis en el centro de la evolución.
 
 
-[[./img/lyyn-margulis.jpg]]
+[[./img/lynn-margulis.jpg]]
 
 
 [[https://es.wikipedia.org/wiki/Lynn_Margulis][Enlace en la Wikipedia]]
@@ -49,7 +49,8 @@ Proyecto Caldum
 * Pero el conocimiento libre es imparable
 
 
-Y la Wikipedia se va posicionando como un referente a nivel mundial del Conocimiento
+Y la Wikipedia se va posicionando como un referente a nivel mundial
+ del Conocimiento
 
 [[./img/estudio-enciclopedia-britanica.png]]
 
