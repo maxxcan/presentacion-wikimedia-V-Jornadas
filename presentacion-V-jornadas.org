@@ -1,6 +1,19 @@
-#+TITLE: Conocimiento Libre y Evolución
-#+AUTHOR: Patricio Martínez Cano
-#+EMAIL: maxxcan@maxxcan.com
+#+TITLE: Conocimiento Libre y Movimiento Maker
+#+AUTHOR: Patricio Martínez
+#+DATE: <2017-09-14 jue>
+#+OPTIONS: toc:nil num:nil
+#+STARTUP: beamer
+#+OPTIONS: toc:nil
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [t]
+#+LaTeX_HEADER: \usetheme{Madrid}
+#+LaTeX_HEADER: \usepackage{mathpazo}
+#+LaTeX_HEADER: \usepackage{stmaryrd}
+#+LaTeX_HEADER: \DeclareMathOperator*{\argmin}{arg\,min}
+#+LaTeX_HEADER: \DeclareMathOperator*{\argmax}{arg\,max}
+#+BEAMER_FRAME_LEVEL: 2
+
+
 
 * Introducción
 
@@ -16,6 +29,7 @@ En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.
 
 El hombre comparte por naturaleza. Está en su *ADN*.  
 
+#+ATTR_LATEX: :width 200px
 [[./img/stallman.jpg]]
 
 * El conocimiento libre y la evolución
@@ -36,6 +50,7 @@ Proyecto Caldum
 
 * Cuando conocí la Wikipedia en los días Caldum
 
+#+ATTR_LATEX: :width 200px
 [[./img/dias-caldum2.png]]
 
 
@@ -57,7 +72,7 @@ Y la Wikipedia se va posicionando como un referente a nivel mundial
 * Los proyectos libres van tomando la cabecera
 
 
-[[./img/github]]
+[[./img/github.jpg]]
 
 [[https://www.github.com][GitHub]]
 
@@ -89,7 +104,7 @@ Algunas de las pegas que seguimos teniendo con la expansión del software libre 
 
 Mucha gente conoce arduino pero pocas valoran o conocen la importancia de su llegada y de la revolución que produjo.
 
-
+#+ATTR_LATEX: :width 200px
 [[./img/arduino.png]]
 
 
@@ -99,7 +114,7 @@ Aquí os dejo el [[https://vimeo.com/18390711][documental]] donde los creadores 
 
 El padre de la impresión 3D libre es [[https://en.wikipedia.org/wiki/Adrian_Bowyer][Adrian Bowyer]]
 
-
+#+ATTR_LATEX: :width 200px
 [[./img/reprap-darwin.jpg]]
 
 
@@ -108,14 +123,15 @@ El padre de la impresión 3D libre es [[https://en.wikipedia.org/wiki/Adrian_Bow
 
 * Impresión 3D en España
 
-
+#+ATTR_LATEX: :width 100px
 [[./img/clone-wars-logo.png]]
 
+#+ATTR_LATEX: :width 200px
 [[./img/obijuan.jpg]]
 
 * Impresión 3D + Hardware Libre + Software Libre + Conocimiento Libre
 
-
+#+ATTR_LATEX: :width 200px
 [[./img/patrimonio-tecnologico-humanidad.png]]
 
 * El movimiento DIY junto con internet pueden ser el gran salto del conocimiento humano
@@ -137,8 +153,10 @@ Miles de proyectos abaratan, hacen accesible y mejoran el acceso a la tecnologí
 
 *Los Makers no somos consumidores pasivos* 
 
+#+ATTR_LATEX: :width 100px
 [[./img/kit-beast.jpg]]
 
+#+ATTR_LATEX: :width 100px
 [[./img/maker-hand.jpg]]
 
 * También tenemos la primera FPGA Libre
@@ -153,7 +171,9 @@ Proyecto [[http://fpgawars.github.io/][FPGA Wars]]
 
 Os veo en el Teatro Circo
 
+#+ATTR_LATEX: :width 200px
 [[./img/feria-maker.png]]
+
 
 
 
