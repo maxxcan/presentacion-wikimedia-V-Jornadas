@@ -125,12 +125,35 @@ Uno de los ejemplos más interesantes puede ser el [[http://opensourceecology.or
 [[./img/open-source-ecology.jpg]]
 
 
+
+
 * Los movimientos Makers llenan el planeta
 
+[[./img/movimiento-maker.jpg]]
 
+* Han llegado para cambiar el mundo
+
+Miles de proyectos abaratan, hacen accesible y mejoran el acceso a la tecnología pensada de HUMANOS para HUMANOS 
+
+*Los Makers no somos consumidores pasivos* 
+
+[[./img/kit-beast.jpg]]
+
+[[./img/maker-hand.jpg]]
 
 * También tenemos la primera FPGA Libre
 
 
 
-* Consolidamos a los Makers of Murcia (Feria Maker)
+[[./img/icezum.jpg]]
+
+Proyecto [[http://fpgawars.github.io/][FPGA Wars]]
+
+* Consolidamos a los Makers of Murcia (Feria Maker Murcia)
+
+Os veo en el Teatro Circo
+
+[[./img/feria-maker.png]]
+
+
+
